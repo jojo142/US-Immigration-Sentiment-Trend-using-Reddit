@@ -1,4 +1,4 @@
-# Borders of Opinion: Immigration Sentiment on Reddit
+## Borders of Opinion: Immigration Sentiment on Reddit
 
 ### BUS244A: Gen AI Foundations for Business  
 **Authors:** Anokh Palakurthi, Yuming Ruan, Madhurima Roy, Samiya Islam  
