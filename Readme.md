@@ -54,9 +54,4 @@ Our study contributes to understanding how **external shocks** — including pan
 - Visualization of **temporal sentiment trends** surrounding key events.  
 - Discussion of **implications for digital discourse and policy perception**.
 
----
-
-## 📚 Related Keywords
-`Natural Language Processing` · `Sentiment Analysis` · `Reddit Data` · `Immigration` · `Political Polarization` · `AI for Social Science`
-
 
